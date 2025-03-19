@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/EslamMonex/takeover-POC/refs/heads/main/fake-login.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/EslamMonex/takeover-POC/refs/heads/main/fake-login.yaml",
+            "name": "Test"
+        }
+    ]
+}
