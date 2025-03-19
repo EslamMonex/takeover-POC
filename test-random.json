@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/EslamMonex/takeover-POC/refs/heads/main/test-random.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/EslamMonex/takeover-POC/refs/heads/main/test-radnom.yaml",
+            "name": "Test"
+        }
+    ]
+}
